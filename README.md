@@ -24,6 +24,10 @@ Run it in terminal:
 ```bash
 node demo/index.js
 ```
+or
+```bash
+python demo.py
+```
 
 # How it works
 
