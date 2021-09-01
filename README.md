@@ -32,4 +32,4 @@ python demo.py
 # How it works
 
 The main idea is to use `\u2584` char (half char filled) and change front and back colors for every character. 
-This results in 2 vertical pixels per character on the screen. Pixel values stored in buffer. `screen.go` function renders everything in background.  
+This results in 2 vertical pixels per character on the screen. 
