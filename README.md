@@ -1,5 +1,6 @@
 # terminal-graphics
-Simple graphics in terminal
+Simple graphics in terminal.
+> 145 lines of javascript code
 
 * No browser needed
 * No dependencies 
