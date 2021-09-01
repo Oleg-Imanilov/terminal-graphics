@@ -17,7 +17,7 @@ Simple graphics in terminal.
   * get pixel
   * draw image (sprite)
   * flood fill
-  * 7 colors
+  * 8 colors
   * animation
 
 Run it in terminal:
