@@ -1,10 +1,10 @@
 # terminal-graphics
 
 Simple graphics in terminal.
-
-> 145 lines of javascript code
+Less then 200 lines of code (each js and python)
 
 * No browser needed
+* No graphic environment
 * No dependencies 
 * Runs in terminal
 * Color graphics supported:
@@ -21,11 +21,11 @@ Simple graphics in terminal.
   * animation
 
 Run it in terminal:
-```bash
+```
 node demo/index.js
 ```
 or
-```bash
+```
 python demo.py
 ```
 
