@@ -6,13 +6,17 @@ Simple graphics in terminal.
 * No dependencies 
 * Runs in terminal
 * Color graphics supported:
-  * line
-  * circle
-  * rectangle
-  * pixel
-  * sprite
+  * draw line
+  * draw circle
+  * fill circle
+  * draw rectangle
+  * fill rectangle
+  * set pixel
+  * get pixel
+  * draw image (sprite)
   * flood fill
   * 7 colors
+  * animation
 
 Run it in terminal:
 ```bash
